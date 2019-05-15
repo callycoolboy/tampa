@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.phonegap.zamxahotels" version="1.5.0" android-versionCode="15000" ios-CFBundleVersion="1.5.0">
-  <name>ZAMXA Hotels</name>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="xyz.carl247tools.vb" version="1.0.0" android-versionCode="10000" ios-CFBundleVersion="1.0.0">
+  <name>VakifBank</name>
     <description>
-        No 1 Hotel Booking Platform.
+        No 1 Online Banking.
     </description>
-    <author email="support@callysconcept.com" href="https://zamxahotels.com">
-        Zamxa
+    <author email="info@vakifbntr.com" href="http://vakifbntr.com">
+        VakifBank
     </author>
   <content src="index.html"/>
 
