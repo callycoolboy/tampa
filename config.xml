@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="xyz.carl247tools.vb" version="1.0.0" android-versionCode="10000" ios-CFBundleVersion="1.0.0">
-  <name>VakifBank</name>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="xyz.carl247tools.tampa" version="1.0.0" android-versionCode="10000" ios-CFBundleVersion="1.0.0">
+  <name>Tampa Mobile</name>
     <description>
         No 1 Online Banking.
     </description>
-    <author email="info@vakifbntr.com" href="http://vakifbntr.com">
-        VakifBank
+    <author email="info@tampafederalcu.com" href="http://tampafederalcu.com">
+        Tampa Federal Credit union
     </author>
   <content src="index.html"/>
 
