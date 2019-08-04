@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="xyz.carl247tools.tampa" version="1.0.0" android-versionCode="10000" ios-CFBundleVersion="1.0.0">
-  <name>Tampa Mobile</name>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.cibof.app" version="1.0.0" android-versionCode="10000" ios-CFBundleVersion="1.0.0">
+  <name>CINBOF Mobile Banking</name>
     <description>
         No 1 Online Banking.
     </description>
-    <author email="info@tampafederalcu.com" href="http://tampafederalcu.com">
-        Tampa Federal Credit union
+    <author email="info@cibof.com" href="">
+        CINBOF Mobile Banking
     </author>
   <content src="index.html"/>
 
@@ -89,8 +89,8 @@
     <icon src="res/icon/windows/Square71x71Logo.scale-240.png" platform="windows" width="170" height="170"/>
     <icon src="res/icon/windows/Square150x150Logo.scale-240.png" platform="windows" width="360" height="360"/>
     <icon src="res/icon/windows/Square310x310Logo.scale-100.png" platform="windows" width="310" height="310"/>
-    <icon src="res/icon/windows/Wide310x150Logo.scale-100.png" platform="windows" width="310" height="150"/>
-    <icon src="res/icon/windows/Wide310x150Logo.scale-240.png" platform="windows" width="744" height="360"/>
+    <icon src="res/icon/android/mipmap-xxxhdpi.png" platform="windows" width="310" height="150"/>
+    <icon src="res/icon/android/mipmap-xxxhdpi.png" platform="windows" width="744" height="360"/>
     </platform>
   
 </widget>
